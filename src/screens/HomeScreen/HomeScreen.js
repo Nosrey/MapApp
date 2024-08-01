@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 const HomeScreen = () => {
   return (
     <View>
-      <Text>Welcome to the Home Screen</Text>
+      <Text>Welcome to the Home Screen friend</Text>
     </View>
   );
 };
